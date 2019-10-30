@@ -1,3 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 Now making changes to Alice to test rebasing with multiple commits.
+
+Adding another change to Alice to test rebasing again.
