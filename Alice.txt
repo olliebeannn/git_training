@@ -5,3 +5,5 @@ Now making changes to Alice to test rebasing with multiple commits.
 Adding another change to Alice to test rebasing again.
 
 A 3rd test change to Alice for rebasing from a remote.
+
+Pull test line added (4th change).
